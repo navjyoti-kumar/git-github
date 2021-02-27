@@ -1,0 +1,14 @@
+.btn{background-color: rgb(174, 0, 218); border-radius: 1rem; text-align: left;
+    border-color: rgb(174, 0, 218);
+}
+body{background-color: rgb(255, 110, 236);}
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: .0rem 0rem;
+    padding-top: 0rem;
+    padding-right: 0rem;
+    padding-bottom: 0rem;
+    padding-left: 0rem;
+border-color: darkorchid;
+margin-top: 1%;}
